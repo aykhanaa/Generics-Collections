@@ -1,0 +1,28 @@
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.exe
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.deps.json
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.dll
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.pdb
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.dll
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\refint\Generics-Practice.dll
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.pdb
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Generics-Practice\Generics-Practice\Generics-Practice\obj\Debug\net6.0\ref\Generics-Practice.dll
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.exe
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.deps.json
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.runtimeconfig.json
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.dll
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\bin\Debug\net6.0\Generics-Practice.pdb
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.dll
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\refint\Generics-Practice.dll
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.pdb
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\Generics-Practice.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Generic-after part\Generics\Generics-Practice\Generics-Practice\obj\Debug\net6.0\ref\Generics-Practice.dll
